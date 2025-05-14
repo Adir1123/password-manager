@@ -1,1 +1,30 @@
+# Ignore PyCharm project files
 .idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Mac system files
+.DS_Store
+
+# Environment variable files
+.env
+
+# VSCode (אם תעבוד גם עם VS Code)
+.vscode/
